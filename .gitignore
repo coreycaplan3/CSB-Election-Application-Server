@@ -18,3 +18,5 @@ server.pid
 .idea/
 *.iml
 target/
+
+*.DS_Store
