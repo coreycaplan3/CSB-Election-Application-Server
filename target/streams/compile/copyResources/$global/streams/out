@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/coreycaplan/Idea Projects/csb-voting-app/conf/application.conf,/Users/coreycaplan/Idea Projects/csb-voting-app/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/coreycaplan/Idea Projects/csb-voting-app/conf/production.conf,/Users/coreycaplan/Idea Projects/csb-voting-app/target/scala-2.11/classes/production.conf)
+[debug] 	(/Users/coreycaplan/Idea Projects/csb-voting-app/conf/routes,/Users/coreycaplan/Idea Projects/csb-voting-app/target/scala-2.11/classes/routes)
